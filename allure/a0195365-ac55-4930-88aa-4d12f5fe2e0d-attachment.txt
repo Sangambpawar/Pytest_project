@@ -1,2 +1,0 @@
-sum  is 30
-test is pass
