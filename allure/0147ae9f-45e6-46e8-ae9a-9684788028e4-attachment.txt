@@ -1,0 +1,2 @@
+this is system genrated statment : Date-Time Amount Transaction Type
+customer login is  pass
